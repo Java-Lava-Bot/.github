@@ -43,3 +43,5 @@ We appreciate feedback, bug reports, and community contributions that help impro
 Our mission is simple: create a powerful, reliable, and easy-to-use Discord bot that helps communities run smoothly without unnecessary complexity.
 
 Thank you for checking out Java Lava and supporting the project!
+
+For more information, look here: https://javalava.phillsphanbh3.me/
