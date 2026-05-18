@@ -44,4 +44,4 @@ Our mission is simple: create a powerful, reliable, and easy-to-use Discord bot 
 
 Thank you for checking out Java Lava and supporting the project!
 
-For more information, look here: https://javalava.phillsphanbh3.me/
+For more information, see the [Java Lava website](https://javalava.phillsphanbh3.me/).
